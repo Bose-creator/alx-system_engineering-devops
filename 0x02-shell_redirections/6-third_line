@@ -1,3 +1,0 @@
-#!/bin/bash
-head -3 6-third_line | tail-1
-
